@@ -4778,6 +4778,10 @@ input:checked + .toggle-bg {
     height: 1.75rem;
   }
 
+  .sm\:h-9 {
+    height: 2.25rem;
+  }
+
   .sm\:w-10 {
     width: 2.5rem;
   }
