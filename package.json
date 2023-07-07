@@ -17,6 +17,7 @@
     "flowbite": "^1.7.0",
     "flowbite-react": "^0.4.10",
     "isbot": "^3.6.12",
+    "mongodb": "^5.7.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "remix-utils": "^6.6.0"
