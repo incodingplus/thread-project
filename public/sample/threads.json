@@ -1,0 +1,20 @@
+[
+    {
+        "title":"웹 프로그래밍 기초",
+        "tags":["코딩", "HTML", "CSS", "Front", "Basic", "JS"],
+        "description":"약 3개월간 진행되는 웹 프로그래밍 기초 수업입니다.",
+        "publish":1688972027475
+    },
+    {
+        "title":"웹 프로그래밍 기초",
+        "tags":["코딩", "HTML", "CSS", "Front", "Basic", "JS"],
+        "description":"Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers.",
+        "publish":1688971027475
+    },
+    {
+        "title":"웹 프로그래밍 기초",
+        "tags":["코딩", "HTML", "CSS", "Front", "Basic", "JS"],
+        "description":"Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers.",
+        "publish":1688971927475
+    }
+]
